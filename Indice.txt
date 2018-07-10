@@ -1,0 +1,27 @@
+{{index [programming, "joy of"], speed}}				{{index [programación, "la alegría de la"], velocidad}}
+
+{{index [JavaScript, "availability of"], "casual computing"}}		{{index [JavaScript, "disponibilidad de"], "computación casual"}}
+
+{{indexsee "web browser", browser}}					{{indexsee "navegador web", navegador}}
+
+{{index [programming, "difficulty of"]}}				{{index [programación, "dificultad de la"]}}
+
+{{index learning}}							{{index aprendizaje}}
+
+{{index "Le Guin, Ursula K."}}						{{index "Le Guin, Ursula K."}}
+
+{{index [program, "nature of"], data}}					{{index [programa, "naturaleza del"], datos}}
+
+{{index "programming style", "best practices"}}
+				{{index "estilo de programación", "buenas practicas"}}
+
+{{index experiment}}							{{index experimentar}}
+
+{{index "programming language", "machine code", "binary data"}}		{{index "lenguaje de programación", "codigo máquina", "datos binarios"}}
+
+{{index [programming, "history of"], "punch card", complexity}}		{{index [programación, "historia de la"], "tarjeta perforada", complejidad}}
+	
+
+
+
+
